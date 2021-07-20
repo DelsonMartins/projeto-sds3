@@ -1,0 +1,11 @@
+package com.devsuperior.dsvendas.entities;
+
+public class Seller {
+	
+	private Long Id;
+	private String Name;
+	
+	public Seller () {	
+	}
+
+}
